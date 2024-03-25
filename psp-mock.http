@@ -1,0 +1,6 @@
+@psp_mock_HostAddress = http://localhost:5039
+
+GET {{psp_mock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
