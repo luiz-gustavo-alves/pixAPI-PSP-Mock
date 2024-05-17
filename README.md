@@ -11,3 +11,11 @@ dotnet watch
 
 ```
 API will be running on http://localhost:5280
+
+## Links
+
+| Description | URL |
+| --- | --- |
+| Pix API | https://github.com/luiz-gustavo-alves/pixAPI 
+| Payment Consumer | https://github.com/luiz-gustavo-alves/pixAPI-Concilliation-Consumer
+| Concilliation Consumer | https://github.com/luiz-gustavo-alves/pixAPI-Concilliation-Consumer
