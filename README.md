@@ -17,5 +17,5 @@ API will be running on http://localhost:5280
 | Description | URL |
 | --- | --- |
 | Pix API | https://github.com/luiz-gustavo-alves/pixAPI 
-| Payment Consumer | https://github.com/luiz-gustavo-alves/pixAPI-Concilliation-Consumer
+| Payment Consumer | https://github.com/luiz-gustavo-alves/pixAPI-Payments-Consumer
 | Concilliation Consumer | https://github.com/luiz-gustavo-alves/pixAPI-Concilliation-Consumer
